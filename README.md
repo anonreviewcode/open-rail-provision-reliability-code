@@ -16,4 +16,5 @@ Results are saved in `processed/`, `validation/` and `figures/`. Downloads are c
 
 Each run refreshes ORR and NaPTAN. For new releases, add confirmed dates to `inputs/reporting_periods.csv` and review any new station-name matches.
 
-[Data sources](docs/sources.md) · [Station geocoding checks](station-geocoding-checks) · [Optional licensed BPLAN validation](docs/station-coordinate-validation.md)
+[Station geocoding checks](station-geocoding-checks)
+
