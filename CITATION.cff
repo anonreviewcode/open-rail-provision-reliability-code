@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Code accompanying an anonymous manuscript under review."
+type: software
+title: "Open Rail Provision and Reliability Code"
+authors:
+  - name: "Anonymous authors"
+repository-code: "https://github.com/anonreviewcode/open-rail-provision-reliability-code"
+url: "https://tv.anonreviewhost.com"
+abstract: "Reproducible ORR station-call provision, weighted reliability measures, FACI/FADI and linked Great Britain geographies."
